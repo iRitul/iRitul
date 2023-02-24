@@ -1,4 +1,4 @@
-Hi, I am Ritul Mishra, an enthusiastic individual with 3 years of experience in Automation who is looking for a thriving, long-term career in Information Technology and Automation. I have keen interest in programming and engineering solutions for real-world problems.
+Hi, I am Ritul Mishra, an enthusiastic individual with 3+ years of experience in Automation who is looking for a thriving, long-term career in Information Technology and Automation. I have keen interest in programming and engineering solutions for real-world problems.
 
 
 - 💼 Any freelance work or paid trainings on Software Testing/Test Automation? do reach, [email](mailto:ritulmishrampvm@gmail.com) :)
