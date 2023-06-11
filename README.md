@@ -9,6 +9,7 @@ Hi, I am Ritul Mishra, an enthusiastic individual with 3+ years of experience in
 <div align="center">
   <h2>📊 Profile stats</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksha-sahib&label=Profile%20views&color=0e75b6&style=flat" alt="iRitul" /> </p>
 ![Ritul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iRitul&show_icons=true&theme=radical)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRitul&hide=scss,css,html&theme=dark&layout=compact)
