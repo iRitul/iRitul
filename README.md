@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksha-sahib&label=Profile%20views&color=0e75b6&style=flat" alt="iRitul" /> </p>
 
-Hi, I am Ritul Mishra, an enthusiastic individual with 3+ years of experience in Automation who is looking for a thriving, long-term career in Information Technology and Automation. I have keen interest in programming and engineering solutions for real-world problems.
+Hi, I am Ritul Mishra, an enthusiastic individual with around 4 years of experience in Automation who is looking for a thriving, long-term career in Information Technology and Automation. I have keen interest in programming and engineering solutions for real-world problems.
 
 
 - ⚡ Skills: Core Java, Selenium WebDriver, Appium, Cucumber-BDD, Karate framework, RestAssured, Unirest, Specmatic, TestNG, Algorithm, MySql, Postman, Maven, TestRail, JIRA, Azure DevOps, Jenkins
